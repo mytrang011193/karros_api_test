@@ -1,4 +1,4 @@
-Guideline to run test
+Guide to run test
 
 Setup environment:
 - Install Java (I'm using Java 13.0.1)
